@@ -1,0 +1,23 @@
+body{
+    background-color: #a8fce7;
+    margin: 20px;
+    font-family: 'Bookshelf Symbol 7';
+}
+#titlu{
+    text-align: center;
+    color: #6056f3;
+}
+#subtitlu{
+    border-bottom: 2px solid #ccc;
+}
+img-profil{
+    height: 200px;
+    width: 200ps;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+table{
+    display: auto;
+    margin: 20%;
+}
