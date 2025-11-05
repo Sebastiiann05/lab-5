@@ -1,0 +1,23 @@
+body{
+    background-color: #fa932d;
+    margin: 20px;
+    font-family: 'Times new Roman';
+}
+#titlu{
+    text-align: center;
+    color: #808080;
+}
+#subtitlu{
+    border-bottom: 2px solid #ccc;
+}
+img-profil{
+    height: 200px;
+    width: 200ps;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+table{
+    display: auto;
+    margin: 20%;
+}
