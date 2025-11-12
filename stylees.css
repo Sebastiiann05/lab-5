@@ -1,0 +1,14 @@
+#pagina{
+	background-color: #f2f2f2;
+	font-family: 'Times New Roman';
+	margin: 40px;
+}
+#poza{
+	display: block;
+	width: 400px;
+	height: 200px;
+	opacity: 0.6;
+}
+#buton{
+	margin-top: 33px;
+}
